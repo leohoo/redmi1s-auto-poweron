@@ -1,0 +1,1 @@
+# redmi1s-auto-poweron
